@@ -10,7 +10,7 @@ Sample backend project for Choreo.
 - Clone the repository using the command `git clone https://github.com/madurangaRA/currency-be.git`.
 - Navigate to the project directory using `cd currency-be`.
 - Goto choreo and setup database by navigating from organization view -> dependencies and get db credentials. 
-- Goto  currency.bal and change db creds and api key in order to test and run local
+- Goto  currency.bal and change db creds in order to test and run local
 - Start the project by running `bal run`.
 
 ##  Choreo deployment highlights
