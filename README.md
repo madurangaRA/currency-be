@@ -1,4 +1,4 @@
-# Please do not submit this as it is as this is already submitted. Create a new project with a new use case.
+# Please do not submit as this is already submitted. Create a new project with a new use case.
 
 
 
